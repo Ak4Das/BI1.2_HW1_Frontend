@@ -5,12 +5,12 @@ import './App.css'
 import Books from "./components/Books"
 import BooksByTitle from "./components/BooksByTitle"
 import BooksByAuthor from "./components/BooksByAuthor"
-import AddMovieForm from "./components/AddMovieForm"
+import AddBookForm from "./components/AddBookForm"
 
 function App() {
   return (
     <main>
-      <AddMovieForm/>
+      <AddBookForm/>
       <Books />
       {/* <BooksByTitle title="Shoe Dog"/> */}
       {/* <BooksByAuthor author="Harper Lee"/> */}

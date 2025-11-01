@@ -1,6 +1,6 @@
 import { useState } from "react"
 
-export default function AddMovieForm() {
+export default function AddBookForm() {
   const [formData, setFormData] = useState({
     title: "",
     author: "",
