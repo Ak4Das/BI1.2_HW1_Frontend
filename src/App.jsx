@@ -12,8 +12,8 @@ function App() {
     <main>
       <AddMovieForm/>
       <Books />
-      <BooksByTitle title="Shoe Dog"/>
-      <BooksByAuthor author="Harper Lee"/>
+      {/* <BooksByTitle title="Shoe Dog"/> */}
+      {/* <BooksByAuthor author="Harper Lee"/> */}
     </main>
   )
 }
